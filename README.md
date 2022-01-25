@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Roy425
 
 - 👀 Languages <br />
-JavaScript, TypeScript, ReScript, PHP
+JavaScript / TypeScript / ReScript, PHP, Python, HTML, CSS / LESS / SCSS
 
 - 🌱 Core area of expertise <br />
-React, Next, Vue, Nuxt, Bootstrap, TailwindCSS, Material UI, AntD
+React, Next, Vue, Nuxt, Bootstrap, TailwindCSS, Material UI, AntDesign
 
 - 💞️ Employee History <br />
 Senior FE Engineer, Shmacked, US <br />
